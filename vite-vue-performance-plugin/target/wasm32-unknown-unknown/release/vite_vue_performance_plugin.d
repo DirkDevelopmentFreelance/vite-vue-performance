@@ -1,0 +1,1 @@
+/Users/dirk/Desktop/Personal_Projects/vite-vue-performance/vite-vue-performance-plugin/target/wasm32-unknown-unknown/release/vite_vue_performance_plugin.wasm: /Users/dirk/Desktop/Personal_Projects/vite-vue-performance/vite-vue-performance-plugin/src/lib.rs
