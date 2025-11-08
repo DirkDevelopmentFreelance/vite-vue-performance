@@ -40,7 +40,7 @@ Modern web apps, especially on low-end devices, often suffer from slow performan
 
 ## ⚙️ Installation
 
-> **Note:** This plugin is in early development / experimental stage.
+> **Note:** This plugin is in early development / experimental stage. (Has no release candidate yet)
 
 ```bash
 npm install vite-plugin-wasmify --save-dev
