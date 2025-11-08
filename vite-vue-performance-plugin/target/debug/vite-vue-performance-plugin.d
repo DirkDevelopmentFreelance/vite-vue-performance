@@ -1,0 +1,1 @@
+/Users/dirk/Desktop/Personal_Projects/vite-vue-performance/vite-vue-performance-plugin/target/debug/vite-vue-performance-plugin: /Users/dirk/Desktop/Personal_Projects/vite-vue-performance/vite-vue-performance-plugin/src/main.rs
